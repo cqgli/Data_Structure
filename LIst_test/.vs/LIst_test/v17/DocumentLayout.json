@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\C-project\\C_Data_Structure\\LIst_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAF04B-CB69-45F0-9AE9-607ED4347BAA}|LIst_test\\LIst_test.vcxproj|D:\\project\\C-project\\C_Data_Structure\\LIst_test\\LIst_test\\test_2.2.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EFAF04B-CB69-45F0-9AE9-607ED4347BAA}|LIst_test\\LIst_test.vcxproj|solutionrelative:LIst_test\\test_2.2.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_2.2.3.cpp",
+              "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\LIst_test\\LIst_test\\test_2.2.3.cpp",
+              "RelativeDocumentMoniker": "LIst_test\\test_2.2.3.cpp",
+              "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\LIst_test\\LIst_test\\test_2.2.3.cpp",
+              "RelativeToolTip": "LIst_test\\test_2.2.3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T10:58:51.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  LNode.cpp
+  main.cpp
+  正在生成代码...
+D:\project\C-project\考研C语言\List\List\LNode.h(70,1): error C4716: “Init_CDlinkList”: 必须返回一个值
+D:\project\C-project\考研C语言\List\List\LNode.h(70,1): error C4716: “Init_CDlinkList”: 必须返回一个值
+D:\project\C-project\考研C语言\List\List\LNode.cpp(274,1): error C4716: “is_tail”: 必须返回一个值

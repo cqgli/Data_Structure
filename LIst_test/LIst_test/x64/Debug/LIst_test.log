@@ -1,0 +1,5 @@
+﻿  test_2.2.3.cpp
+D:\project\C-project\考研C语言\LIst_test\LIst_test\test_2.2.3.cpp(26,3): warning C4551: 缺少参数列表的函数调用
+D:\project\C-project\考研C语言\LIst_test\LIst_test\test_2.2.3.cpp(242,1): warning C4715: “max”: 不是所有的控件路径都返回值
+D:\project\C-project\考研C语言\LIst_test\LIst_test\test_2.2.3.cpp(313,1): warning C4715: “mid_List”: 不是所有的控件路径都返回值
+  LIst_test.vcxproj -> D:\project\C-project\考研C语言\LIst_test\x64\Debug\LIst_test.exe
