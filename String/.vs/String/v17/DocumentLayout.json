@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\project\\C-project\\C_Data_Structure\\String\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|solutionrelative:String\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|solutionrelative:String\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|solutionrelative:String\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|D:\\project\\C-project\\C_Data_Structure\\String\\String\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF58404B-8800-4843-B389-59689B958F75}|String\\String.vcxproj|solutionrelative:String\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "String.h",
               "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.h",
               "RelativeDocumentMoniker": "String\\String.h",
               "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.h",
               "RelativeToolTip": "String\\String.h",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAACwAAAAdAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAA2wFYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-08T01:16:57.132Z"
+              "WhenOpened": "2025-04-09T12:57:01.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "String.cpp",
               "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.cpp",
               "RelativeDocumentMoniker": "String\\String.cpp",
               "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\String\\String\\String.cpp",
               "RelativeToolTip": "String\\String.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-08T01:16:46.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:16:46.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\String\\String\\main.cpp",
+              "RelativeDocumentMoniker": "String\\main.cpp",
+              "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\String\\String\\main.cpp",
+              "RelativeToolTip": "String\\main.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T12:47:37.181Z"
             }
           ]
         }
