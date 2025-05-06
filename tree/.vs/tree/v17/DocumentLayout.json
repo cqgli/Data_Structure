@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "tree\\Tree.h",
               "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\tree\\tree\\Tree.h",
               "RelativeToolTip": "tree\\Tree.h",
-              "ViewState": "AQIAAFUAAAAAAAAAAAA0wGgAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-15T11:40:21.958Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "tree\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-15T08:03:23.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T08:03:23.037Z"
             },
             {
               "$type": "Document",
@@ -79,7 +78,7 @@
               "RelativeDocumentMoniker": "tree\\BinaryTree.h",
               "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\tree\\tree\\BinaryTree.h",
               "RelativeToolTip": "tree\\BinaryTree.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-05T11:03:32.586Z",
               "EditorCaption": ""
@@ -92,7 +91,7 @@
               "RelativeDocumentMoniker": "tree\\BinaryTree.cpp",
               "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\tree\\tree\\BinaryTree.cpp",
               "RelativeToolTip": "tree\\BinaryTree.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAAAAAA",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAMIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T11:03:12.155Z",
               "EditorCaption": ""

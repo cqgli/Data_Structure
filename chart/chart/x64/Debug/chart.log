@@ -1,0 +1,35 @@
+﻿  Chart.h
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(63,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“VNode *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(63,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "VNode *" 的参数 1 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 2 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(105,4): error C3861: “BFS”: 找不到标识符
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(169,4): error C3861: “DFS”: 找不到标识符
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(176,15): error C2664: “int FirstNeighbor(ALGraph,int)”: 无法将参数 1 从“MGraph”转换为“ALGraph”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(176,48): error C2664: “int NextNeighbor(ALGraph,int,int)”: 无法将参数 1 从“MGraph”转换为“ALGraph”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(187,7): error C2065: “p”: 未声明的标识符
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(187,13): error C2059: 语法错误:“)”
+  main.cpp
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  正在生成代码...
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(60,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(63,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“VNode *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(63,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "VNode *" 的参数 1 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(69,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 2 冲突
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(105,4): error C3861: “BFS”: 找不到标识符
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(169,4): error C3861: “DFS”: 找不到标识符
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(176,15): error C2664: “int FirstNeighbor(ALGraph,int)”: 无法将参数 1 从“MGraph”转换为“ALGraph”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(176,48): error C2664: “int NextNeighbor(ALGraph,int,int)”: 无法将参数 1 从“MGraph”转换为“ALGraph”
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(187,7): error C2065: “p”: 未声明的标识符
+D:\project\C-project\C_Data_Structure\chart\chart\Chart.h(187,13): error C2059: 语法错误:“)”

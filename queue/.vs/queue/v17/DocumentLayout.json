@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\project\\C-project\\C_Data_Structure\\queue\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|solutionrelative:queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\LinkQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|solutionrelative:queue\\LinkQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\LinkQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|solutionrelative:queue\\LinkQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|solutionrelative:queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D041575A-EA0B-403C-BEB0-7BA308F74387}|queue\\queue.vcxproj|D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\LinkQueue_No.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\main.cpp",
+              "RelativeDocumentMoniker": "queue\\main.cpp",
+              "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\main.cpp",
+              "RelativeToolTip": "queue\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T12:09:04.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -42,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LinkQueue.h",
               "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\LinkQueue.h",
               "RelativeDocumentMoniker": "queue\\LinkQueue.h",
@@ -54,28 +68,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LinkQueue.cpp",
               "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\LinkQueue.cpp",
               "RelativeDocumentMoniker": "queue\\LinkQueue.cpp",
               "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\LinkQueue.cpp",
               "RelativeToolTip": "queue\\LinkQueue.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T12:31:28.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\main.cpp",
-              "RelativeDocumentMoniker": "queue\\main.cpp",
-              "ToolTip": "D:\\project\\C-project\\C_Data_Structure\\queue\\queue\\main.cpp",
-              "RelativeToolTip": "queue\\main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T12:09:04.027Z"
+              "WhenOpened": "2025-03-28T12:31:28.372Z"
             }
           ]
         }
