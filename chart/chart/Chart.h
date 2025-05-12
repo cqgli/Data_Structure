@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "../../queue/queue/SqQueue.h"
+#include "../../stack/stack/stack.h"
 #define MaxVertexNum 100
 //邻接矩阵
 typedef struct {
@@ -189,5 +190,37 @@ void DFS1(ALGraph G, int i)
 		if (!visited[w])
 			DFS1(G, w);
 	}
+}
+
+//拓扑排序算法(邻接表实现）
+int indegree[];//表示每个顶点的入度
+int print[];//用于记录已经输出的顶点
+bool TopologicalSort(ALGraph G)
+{
+	SqStack S;//用于储存度为0的顶点
+	InitStack(S);
+	int i;
+	for (int i = 0; i < G.vexnum; i++)
+	{
+		if (indegree[i] == 0)
+		{
+			push(S, i);
+		}
+	}
+	int count = 0;
+	while (!is_empty(S))
+	{
+		Pop(S, i);
+		print[count++] = i;
+		for (ArcNode* p = G.vertices[i].first; p; p = p->next)
+		{
+			int v = p->adjvex;
+			if (!(--indegree[v]))
+				push(S, v);
+		}
+	}
+	if (count < G.vexnum)
+		return false;
+	return true;
 }
 
