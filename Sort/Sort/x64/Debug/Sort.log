@@ -1,0 +1,4 @@
+﻿  Sort.cpp
+D:\project\C-project\C_Data_Structure\Sort\Sort\Sort.cpp(30,6): warning C4101: “i”: 未引用的局部变量
+D:\project\C-project\C_Data_Structure\Sort\Sort\Sort.cpp(207,6): warning C4101: “i”: 未引用的局部变量
+  Sort.vcxproj -> D:\project\C-project\C_Data_Structure\Sort\x64\Debug\Sort.exe
